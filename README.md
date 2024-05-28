@@ -1,9 +1,17 @@
 ## Hi there 👋
+Working on a solution based on the Materials project dataset. 
 
-<!--
-**kiaquinto3/kiaquinto3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Education
+Master of Science, Analytics								       2019 - 2024
+Georgia Institute of Technology, Atlanta, GA.
+Bachelor of Science, Industrial Engineering						       2003 - 2007
+University of Washington, Seattle, WA.
+Technical Skills 
+•	10+ years experience with SQL and databases such as AWS S3 / Athena / Redshift, SQL Server, Postgres, and Teradata
+•	4 years experience in Python machine learning notebooks including Jupyter, SageMaker, and Databricks
+•	4 years experience in developer tools Jira, GitLab/GitHub/Bitbucket, Airflow
+•	4 years in analytics application development in Python
+•	3 years professional experience in A/B testing and design of experiments 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
