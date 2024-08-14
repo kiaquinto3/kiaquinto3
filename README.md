@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently working on a solution based on the Materials project dataset. 
+I've just finished a data pipeline project with a healthcare hardware manufacturer. See the PDF document  "Katherine_Iaquinto_healthcare_reliability_reporting_system_pdf.pdf."
 
 
 Master of Science, Analytics	Georgia Institute of Technology, Atlanta, GA.							       2019 - 2024
